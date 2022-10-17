@@ -3,7 +3,7 @@ This tool will try to help you check whether a tile structure with s-tiles in C^
 
 
 ## Required:
-- Visual Studio 2022 or CodeBlocks
+- CodeBlocks or Visual Studio 2022
 
 
 ## Run:
