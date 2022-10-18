@@ -3,7 +3,13 @@ This tool will try to help you check whether a tile structure with $s$-tiles in 
 
 
 ## Required:
-- CodeBlocks or Visual Studio 2022
+- CodeBlocks, Visual Studio 2022 or Dev-C++
+
+
+## To compile:
+- Install gcc (g++) that supports -std=c++11 (Dev-C++)  
+Tools---Compiler Options---General---Add the following commands when calling the compiler: -std=c++11  
+Tools---Compiler Options---General---Add the following commands when calling the linker: -static-libgcc
 
 
 ## Run:
