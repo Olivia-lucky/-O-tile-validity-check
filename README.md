@@ -7,7 +7,7 @@ This tool will try to help you check whether a tile structure with $s$-tiles in 
 
 
 ## To compile:
-- Install gcc (g++) that supports -std=c++11 (Dev-C++)  
+- Install gcc (g++) that supports -std=c++11 (only Dev-C++)  
 Tools---Compiler Options---General---Add the following commands when calling the compiler: -std=c++11  
 Tools---Compiler Options---General---Add the following commands when calling the linker: -static-libgcc
 
